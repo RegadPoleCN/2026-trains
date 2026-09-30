@@ -1,6 +1,6 @@
 # F0rest-csgo
 
-> F0rest
+> 赛道群微信昵称：F0rest
 
 ## 选择路线
 
